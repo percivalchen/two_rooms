@@ -24,7 +24,7 @@ When you run the `main.py` application, the program will go through the `contact
 
 ## Misc
 You can use this script to distribute roles via SMS. To do this, we use cell providers' [SMS gateways](https://en.wikipedia.org/wiki/SMS_gateway#Email_clients), so you will need to know the recipients' cell provider and number. The contact can then be added to `contact.csv` in the form `<number>@<gateway>`
-  Ex: The number 1 (999) 123-4567 provideed by verizon would be `9991234567@vtext.com`
+  Ex: The number 1 (999) 123-4567 provided by verizon would be `9991234567@vtext.com`
 
 
 IMPORTANT: Tuesday Knight Games (from http://tuesdayknightgames.com/) holds the copyright on the game "Two Rooms and a Boom" and it's roles. All designs have been made available under their Creative Commons license BY–NC–SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). 
